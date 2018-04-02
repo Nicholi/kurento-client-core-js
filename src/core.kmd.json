@@ -825,6 +825,7 @@
     {
       "typeFormat": "ENUM",
       "values": [
+        "UNKNOWN",
         "TRANSCODING",
         "NOT_TRANSCODING"
       ],
