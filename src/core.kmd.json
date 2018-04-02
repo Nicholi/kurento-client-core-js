@@ -825,6 +825,15 @@
     {
       "typeFormat": "ENUM",
       "values": [
+        "TRANSCODING",
+        "NOT_TRANSCODING"
+      ],
+      "name": "MediaTranscodingState",
+      "doc": "Transcoding state of the media."
+    },
+    {
+      "typeFormat": "ENUM",
+      "values": [
         "DISCONNECTED",
         "CONNECTED"
       ],
